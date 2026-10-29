@@ -30,6 +30,16 @@ Start now: create REGISTER.md Rev 1 from what I tell you next, tell me this chat
 
 Then tell it what you're working on.
 
+## What to connect (optional)
+
+Nothing is required. The method works with plain chats and written notes. If your work lives in these apps, connecting them in Claude (**Customize > Connectors**) lets your seats read and draft there:
+
+- **Google Drive and Docs**, for the files your team already works from
+- **Gmail and Google Calendar**, for messages and meetings
+- **GitHub**, if any of your seats build code
+
+Connect only what a seat needs for its job. Connectors stay in your own account and are never part of this kit.
+
 ## What's in here
 
 - `skills/ai-team/SKILL.md`: the method in full (seats, the register, the relay, the reply layout, handoffs, evidence rules).
