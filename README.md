@@ -9,7 +9,7 @@ This is the starter edition of the setup Michael D. Markham uses to run his own 
 ## Get started
 
 **Option 1: add the skill to your Claude.**
-Download `ai-team.plugin` from the latest release (https://github.com/michaeldmarkham/ai-team/releases/latest), then in Claude open **Customize > Plugins > Add > Upload plugin** and choose the file. Then open a Claude project, start a chat, and type `seat`.
+Download `ai-team.plugin` (https://github.com/michaeldmarkham/ai-team/raw/main/ai-team.plugin), then in Claude open **Customize > Plugins > Add > Upload plugin** and choose the file. Then open a Claude project, start a chat, and type `seat`.
 
 **Option 2: no install, just paste.**
 Create a Claude project, start a chat, and paste this:
@@ -34,6 +34,9 @@ Then tell it what you're working on.
 
 - `skills/ai-team/SKILL.md`: the method in full (seats, the register, the relay, the reply layout, handoffs, evidence rules).
 - `.claude-plugin/plugin.json`: the plugin manifest.
+- `ai-team.plugin`: the same skill packaged for upload to Claude.
+
+The plugin holds only the method: no connectors, no keys, no data. Whatever tools you connect in Claude stay in your own account.
 
 ## Want it built around your team?
 
