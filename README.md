@@ -30,6 +30,8 @@ Start now: create REGISTER.md Rev 1 from what I tell you next, tell me this chat
 
 Then tell it what you're working on.
 
+When Claude asks to save a file in your project, click **Allow**. That's how it keeps REGISTER.md and the relay notes up to date.
+
 ## What to connect (optional)
 
 Nothing is required. The method works with plain chats and written notes. If your work lives in these apps, connecting them in Claude (**Customize > Connectors**) lets your seats read and draft there:
